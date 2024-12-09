@@ -10,15 +10,12 @@ Structure: Organized into folders, where each folder represents a different emot
 
 # Libraries
 To use this project, you will need to have the following libraries installed:
-
-librosa
-seaborn
-matplotlib
-scikit-learn
-pandas
-IPython
-numpy
-keras
+- librosa
+- matplotlib
+- scikit-learn
+- pandas
+- numpy
+- keras (TensorFlow backend)
 
 # Results
 ![image](https://github.com/user-attachments/assets/c3e12247-0768-4362-b3d2-258e4a962b2b)
