@@ -23,3 +23,8 @@ keras
 # Results
 ![image](https://github.com/user-attachments/assets/c3e12247-0768-4362-b3d2-258e4a962b2b)
 
+The model achieves:
+
+Training Accuracy: Over 95% after 50 epochs.
+Validation Accuracy: Similar trends with slight fluctuations (as shown in the graph)
+
